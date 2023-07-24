@@ -1,5 +1,4 @@
-## Client Manager
+## client-manager
 
-- Routing
-- Form Kit ○ validaciones
-- Methods POST | GET | PATCH | DELETE
+- Vue Routing
+- Forrm Kit
