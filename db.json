@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Pablo",
+      "apellido": "De la torre",
+      "email": "correo@correo.com",
+      "telefono": "123-123-1234",
+      "empresa": "Código Con Juan",
+      "puesto": "Full Stack Dev y Instructor",
+      "estado": false,
+      "id": 3
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Salazar",
+      "email": "asalazar@hyl.cl",
+      "telefono": "979384744",
+      "empresa": "H&L",
+      "puesto": "Desarrollador FullStack",
+      "estado": 1,
+      "id": 4
+    }
+  ]
+}
